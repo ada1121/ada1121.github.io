@@ -2,8 +2,8 @@
 
 
 
-## Link to GitHub pages website
-http://ada1121.github.io
+## Link to GitHub pages website: http://ada1121.github.io
+[Click here](http://ada1121.github.io)
 
 
 ## Practice of Markdown
