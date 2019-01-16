@@ -3,7 +3,7 @@
 
 
 ## Link to GitHub pages website
-ada1121.github.io
+http://ada1121.github.io
 
 
 ## Practice of Markdown
